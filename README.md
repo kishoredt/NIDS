@@ -26,9 +26,9 @@ insights, reasoning, cybersecurity analysts, threat response, decisionmaking.
 
 ## Project Setup:
 <code>➢ git clone https://github.com/KishoreDT/NIDS</code><br>
-<code>➢ cd NIDS</code>
-<code>➢ python3.9 -m venv venv</code>
-<code>➢ source venv/bin/activate</code>
-<code>➢ pip install -r requirements.txt</code>
-<code>➢ python application.py</code>
+<code>➢ cd NIDS</code><br>
+<code>➢ python3.9 -m venv venv</code><br>
+<code>➢ source venv/bin/activate</code><br>
+<code>➢ pip install -r requirements.txt</code><br>
+<code>➢ python application.py</code><br>
 <code>➢ Now open web address http://localhost:5000</code>
