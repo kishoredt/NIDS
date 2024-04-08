@@ -25,12 +25,11 @@ insights, reasoning, cybersecurity analysts, threat response, decisionmaking.
 3. Npcap:
 
 ## Project Setup:
-<code>
-    ➢ git clone https://github.com/KishoreDT/NIDS
-    ➢ cd NIDS
-    ➢ python3.9 -m venv venv
-    ➢ source venv/bin/activate
-    ➢ pip install -r requirements.txt
-    ➢ python application.py
-    ➢ Now open web address http://localhost:5000
+<code>➢ git clone https://github.com/KishoreDT/NIDS
+➢ cd NIDS
+➢ python3.9 -m venv venv
+➢ source venv/bin/activate
+➢ pip install -r requirements.txt
+➢ python application.py
+➢ Now open web address http://localhost:5000
 </code>
