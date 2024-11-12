@@ -2,11 +2,12 @@ Flask
 Flask-SocketIO
 simple-websocket
 scapy
-scikit-learn==1.5.0
+scikit-learn==1.2.0
 joblib
+numpy==1.26.4
 pandas
 psutil
 lime
 dill
-tensorflow
+tensorflow==2.11.0
 plotly
