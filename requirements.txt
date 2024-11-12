@@ -9,5 +9,5 @@ pandas
 psutil
 lime
 dill
-tensorflow==2.11.0
+tensorflow==2.12.1
 plotly
